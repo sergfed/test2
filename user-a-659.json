@@ -1,6 +1,10 @@
 [
-{
-  "type": "settings",
-"title": "Cms Git Test"
-}
+  {
+    "type": "settings",
+    "title": "Cms Git Test"
+  },
+  {
+    "type": "text",
+    "content": "Hello world!"
+  }
 ]
